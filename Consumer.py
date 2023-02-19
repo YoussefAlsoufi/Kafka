@@ -10,4 +10,6 @@ if __name__ == "__main__":
         print ("Consumer received a message!")
         print ("From Youssef_Topic_2 : {} ".format(json.loads(msg.value)))
         #print (json.load(msg.value))
-        
+
+
+  
